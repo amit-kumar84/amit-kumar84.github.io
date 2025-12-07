@@ -175,7 +175,7 @@ const Hero = () => {
                 <div className="absolute inset-0 rounded-full border-4 border-[#00ffd1] shadow-[0_0_30px_rgba(0,255,209,0.4),inset_0_0_30px_rgba(0,255,209,0.2)] group-hover:shadow-[0_0_50px_rgba(0,255,209,0.6),inset_0_0_50px_rgba(0,255,209,0.3)] transition-all duration-300" />
                 
                 <img
-                  src="/profile.png"
+                  src="https://github.com/amit-kumar84/amit-kumar84.github.io/blob/33de0f3202b69afa9ac708dc9cf44dda4d523096/static/profile.png?raw=true"
                   alt="Amit Kumar - Embedded Systems Engineer"
                   className="w-full h-full object-cover rounded-full"
                 />
